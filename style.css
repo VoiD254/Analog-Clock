@@ -4,8 +4,8 @@
     background: url(images/clock.png) no-repeat;
     background-size: 100%;
     margin: auto;   
-    height: 500px;
-    width: 500px;
+    height: 50vw;
+    width: 50vw;
 
 }
 
@@ -22,7 +22,6 @@
     top: 30%;
     left: 49.2%;
     opacity: 0.8;
-    /* display: none; */
 }
 
 #minutes{
@@ -31,7 +30,6 @@
     top: 27%;
     left: 49.4%;
     opacity: 0.8;
-    /* display: none; */
 }
 
 #seconds{
@@ -40,5 +38,4 @@
     top: 25%;
     left: 49.5%;
     opacity: 0.8;
-    /* display: none; */
 }
